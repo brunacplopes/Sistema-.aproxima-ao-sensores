@@ -16,4 +16,6 @@ Este projeto utiliza um Arduino e um sensor ultrassônico para medir a distânci
 - Se a distância for maior, o LED permanece apagado.
 
 ## Montagem do Circuito
-![Descrição da Imagem](imagens/Captura%20de%20tela%202024-10-10%20224147.png)
+![Captura de tela 2024-10-10 224147](https://github.com/user-attachments/assets/8aca882b-26bc-4a71-b487-f7971de06ff8)
+
+
